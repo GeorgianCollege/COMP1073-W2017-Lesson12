@@ -1,0 +1,15 @@
+/* custom CSS Lives Here */
+body {
+  background-color: grey;
+}
+
+#MainContent {
+  display: flex;
+  width: 100%;
+}
+
+#canvas {
+  background-color: white;
+  margin: 0 auto;
+  border: 1px Solid black;
+}
